@@ -1,6 +1,6 @@
 {
   "name": "generator-tiexin-vue",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "homepage": "www.tiexincode.com",
   "author": {
@@ -13,9 +13,12 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
-    "yeoman-generator"
-    
+    "yeoman-generator",
+    "yeoman",
+    "generator",
+    "tiexin",
+    "cli",
+    "vue"
   ],
   "devDependencies": {
     "yeoman-test": "^1.6.0",
